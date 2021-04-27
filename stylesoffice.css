@@ -1,0 +1,24 @@
+.navb{
+	background-color: #f8f8f8;
+	margin-bottom: 0px;
+	border: none;
+	height: 75px;
+
+}
+
+.navb .navbar-nav > li > a {
+    color: #777;
+    font-size: 20px;
+}
+.slid{
+	height: 500px;
+}
+.footer{
+	background-color: blue;
+	height: 150px;
+
+}
+footer, .h4 {
+    
+    color: rgb(158 169 66);
+}
